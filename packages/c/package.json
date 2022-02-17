@@ -1,0 +1,12 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo build c",
+    "test": "echo test c"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo build b",
+    "test": "echo test b"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "c": "^1.0.0"
+  }
+}
